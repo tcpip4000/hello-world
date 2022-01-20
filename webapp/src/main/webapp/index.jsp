@@ -34,7 +34,7 @@
   <h1> Thank you, Happy Learning JP</h1>
   
 
-  <b>Pipeline github - jenkins - Ansible - EKS</b>
+  <b>Pipeline github - jenkins - Ansible - EKS v1</b>
 
   <p>Version 1.0.0</p>
   
